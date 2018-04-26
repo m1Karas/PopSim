@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\michal\documents\visual studio 2015\projects\prototype\prototype\main.cpp(87): warning C4551: function call missing argument list
+c:\users\michal\documents\visual studio 2015\projects\prototype\prototype\main.cpp(98): warning C4101: 'popCount': unreferenced local variable
+  Prototype.vcxproj -> C:\Users\Michal\Documents\Visual Studio 2015\Projects\Prototype\Debug\Prototype.exe
+  Prototype.vcxproj -> C:\Users\Michal\Documents\Visual Studio 2015\Projects\Prototype\Debug\Prototype.pdb (Partial PDB)
